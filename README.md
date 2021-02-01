@@ -8,4 +8,5 @@
 
 ### Description
 
-A first approach into the JRW stack.
+JavaScript Rust & Web Assembly.
+A minimal approach to js implementations for producing rust binaries though wasm translations for (non) intensive tasks.
